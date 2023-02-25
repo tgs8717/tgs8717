@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi!
+- Timmy (alias)
+- Currently Working On: [(https://github.com/tgs8717/language-learning-resources)]
+- 📚 Learning: Python, HTML, CSS, JavaScript, Node.js
+- 🖥️ CS major + Language Lover!
+- 📞 Contact:
+     - Discord: ()#0506
 
 <!--
 **tgs8717/tgs8717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
