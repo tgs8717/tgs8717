@@ -1,6 +1,6 @@
-### Hi!
-- Timmy (alias)
-- Currently Working On: [Language Learning Resources](https://github.com/tgs8717/language-learning-resources)
+### Hi there!
+- I'm Timmy (alias)
+- Currently Working On: [Language Learning Resources Website](https://github.com/tgs8717/language-learning-resources)
 - 📚 Learning: Python, HTML, CSS, JavaScript, Node.js
 - 🖥️ CS major + Language Lover!
 - 📞 Contact:
