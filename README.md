@@ -1,10 +1,8 @@
 ### Hi there!
-- I'm Timmy (alias)
+- I'm Grace
 - Currently Working On: [Language Learning Resources Website](https://github.com/tgs8717/language-learning-resources)
-- 📚 Learning: Python, HTML, CSS, JavaScript, Node.js
+- 📚 Learning: C, JavaScript, Node.js
 - 🖥️ CS major + Language Lover!
-- 📞 Contact:
-     - Discord: ()#0506
 
 <!--
 **tgs8717/tgs8717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
