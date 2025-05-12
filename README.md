@@ -1,8 +1,11 @@
 ### Hi there!
-- I'm Grace
+- My name is Grace.
 - Currently Working On: [Inventory Management System](https://tgs8717.github.io/IMS_basic/)
 - 📚 Learning: SQL, JavaScript
-- 🖥️ CS major + Language Lover!
+- 🖥️ I'm a CS major and I love learning languages!
+- グレイスと申します。
+- 現在取り組んでいるプロジェクト：[Inventory Management System](https://tgs8717.github.io/IMS_basic/)
+- コンピューターサイエンスを専攻しており、言語学習が好きです。
 
 <!--
 **tgs8717/tgs8717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
