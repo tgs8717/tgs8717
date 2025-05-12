@@ -5,6 +5,7 @@
 - 🖥️ I'm a CS major and I love learning languages!
 - グレイスと申します。
 - 現在取り組んでいるプロジェクト：[Inventory Management System](https://tgs8717.github.io/IMS_basic/)
+- 学習中の技術：SQL、JavaScript
 - コンピューターサイエンスを専攻しており、言語学習が好きです。
 
 <!--
