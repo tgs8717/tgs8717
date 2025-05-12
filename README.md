@@ -1,7 +1,7 @@
 ### Hi there!
 - I'm Grace
-- Currently Working On: [Language Learning Resources Website](https://github.com/tgs8717/language-learning-resources)
-- 📚 Learning: C, JavaScript, Node.js
+- Currently Working On: [Inventory Management System](https://tgs8717.github.io/IMS_basic/)
+- 📚 Learning: SQL, JavaScript
 - 🖥️ CS major + Language Lover!
 
 <!--
